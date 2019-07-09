@@ -1,0 +1,24 @@
+#header-nav {
+	background-color: #cccccc;
+	border-radius: 0;
+	border: 0;
+	border-bottom: 3px solid black;
+}
+.navbar-brand {
+	padding-top: 10px;
+}
+.navbar-brand h1 {
+	color: black;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	line-height: 0.75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus{
+	text-decoration: none;
+}
+
+.col-lg-12, .col-md-12, .col-sm-12, .col-xs-12{
+	background-color: #cccccc;
+	text-align: center;
+	height: 2000px;
+}
